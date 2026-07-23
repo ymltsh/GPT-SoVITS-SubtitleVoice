@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ GPT-SoVITS - SubtitleVoice
+# 🎙️ SubtitleVoice | 幕之声
 
 ### 让番剧数据集制作，从数小时缩短到数分钟。
 
