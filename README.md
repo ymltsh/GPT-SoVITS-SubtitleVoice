@@ -422,7 +422,9 @@ AI 负责提高效率。
 <img width="2550" height="1291" alt="image" src="https://github.com/user-attachments/assets/7862a84f-031c-4724-87d6-45846dd00c52" />
 
 
-
+一键包：
+链接：https://pan.quark.cn/s/c626642f9a35
+提取码：GDUR
 ---
 
 # 开源协议
